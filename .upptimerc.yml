@@ -13,8 +13,8 @@ sites:
   - name: eduPort Hamburg
     url: https://eduport.hamburg.de/
   - name: LMS Hamburg
-    url: https://lms.lernen.hamburg/login/index.php
-    __dangerous__body_degraded: "File not found"
+    url: https://lms.lernen.hamburg/
+#    __dangerous__body_degraded: "File not found"
 
 
 status-website:
