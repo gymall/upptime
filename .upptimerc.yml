@@ -22,15 +22,17 @@ status-website:
   # cname: upptime.it.gymall.de
   # Uncomment the following line if you don't have a custom domain and add your repo name
   baseUrl: /upptime
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime Gymnasium Allermöhe Services
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  logoUrl: https://moodle.gymall.de/pluginfile.php/1/core_admin/logo/0x200/1616999343/Mo%CC%88we%20farbig.png
+  name: Upptime Monitor vom Gymnasium Allermöhe
+  introTitle: "Status der Webseiten und Dienste vom Gymnasium Allermöhe"
+  introMessage: Hier kann der Zustand von den einzelnen Webseiten und Diensten geprüft werden.
   navbar:
     - title: Status
-      href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+      href: /upptime
+    - title: IT Gymall
+      href: https://it.gymall.de
+#    - title: GitHub
+#      href: https://github.com/$OWNER/$REPO
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
