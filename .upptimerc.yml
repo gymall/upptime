@@ -13,10 +13,7 @@ sites:
   - name: eduPort Hamburg
     url: https://eduport.hamburg.de/
   - name: LMS Hamburg
-    method: HEAD
     url: https://lms.lernen.hamburg/login/index.php
-  - name: TfK
-    url: $SECRET_SITE
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
