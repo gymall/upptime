@@ -28,8 +28,8 @@ status-website:
   # Uncomment the following line if you don't have a custom domain and add your repo name
   baseUrl: /upptime
   logoUrl: https://moodle.gymall.de/pluginfile.php/1/core_admin/logo/0x200/1616999343/Mo%CC%88we%20farbig.png
-  name: Upptime Monitor vom Gymnasium Allermöhe
-  introTitle: "Status der Webseiten und Dienste vom Gymnasium Allermöhe"
+  name: Gymnasium Allermöhe
+  introTitle: "Status der Webseiten+Dienste des Gym Allermöhe"
   introMessage: Hier kann der Zustand von den einzelnen Webseiten und Diensten geprüft werden.
   navbar:
     - title: Status
