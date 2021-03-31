@@ -4,19 +4,19 @@ repo: upptime # Your GitHub repository name
 
 # Add your sites here
 sites:
-  - name: IServ Gymnasium Allermöhe
+  - name: IServ
     url: https://gymall.de/iserv/
     icon: https://gymall.de/iserv/static/icons/favicon.ico
-  - name: Moodle Gymnasium Allermöhe
+  - name: Moodle
     url: https://moodle.gymall.de/
     icon: https://moodle.gymall.de/theme/image.php/boost/theme/1616999343/favicon
-  - name: Webseite Gymnasium Allermöhe
+  - name: Webseite
     url: https://gymnasium-allermoehe.hamburg.de/
     icon: https://gymnasium-allermoehe.hamburg.de/wp-content/uploads/sites/16/2018/02/cropped-GymAll-Icon-32x32.png
-  - name: eduPort Hamburg
+  - name: eduPort
     url: https://eduport.hamburg.de/
     icon: https://eduport.hamburg.de/wp-content/uploads/sites/223/2016/04/cropped-icon-1-32x32.jpg
-  - name: LMS Hamburg
+  - name: LMS
     url: https://lms.lernen.hamburg/
     icon: https://lms.lernen.hamburg/theme/image.php/ocschool/theme/1616487992/favicon
 #    __dangerous__body_degraded: "File not found"
