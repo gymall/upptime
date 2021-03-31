@@ -1,28 +1,26 @@
 # Change these first
-owner: upptime # Your GitHub organization or username
+owner: gymall # Your GitHub organization or username
 repo: upptime # Your GitHub repository name
 
 # Add your sites here
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Broken Site
-    url: https://thissitedoesnotexist.com
-  - name: Test for HEAD
+  - name: IServ Gymnasium Allermöhe
+    url: https://gymall.de/iserv/
+  - name: Moodle Gymnasium Allermöhe
+    url: https://moodle.gymall.de/
+  - name: Webseite Gymnasium Allermöhe
+    url: https://gymnasium-allermoehe.hamburg.de/
+  - name: eduPort Hamburg
+    url: https://eduport.hamburg.de/
+  - name: LMS Hamburg
     method: HEAD
-    url: https://www.google.com
-  - name: Secret Site
+    url: https://lms.lernen.hamburg/login/index.php
+  - name: TfK
     url: $SECRET_SITE
-  - name: TCP ping
-    url: 1.1.1.1
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
-  cname: demo.upptime.js.org
+  cname: monitor.it.gymall.de
   # Uncomment the following line if you don't have a custom domain and add your repo name
   # baseUrl: /upptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
