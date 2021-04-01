@@ -22,6 +22,8 @@ sites:
   - name: LMS
     url: https://lms.lernen.hamburg/
     icon: https://lms.lernen.hamburg/theme/image.php/ocschool/theme/1616487992/favicon
+    expectedStatusCodes:
+      - 403
 #    __dangerous__body_degraded: "File not found"
 
 
