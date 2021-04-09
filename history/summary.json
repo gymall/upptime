@@ -4,7 +4,7 @@
     "url": "https://gymall.de/iserv/",
     "icon": "https://gymall.de/iserv/static/icons/favicon.ico",
     "slug": "i-serv",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -12,7 +12,7 @@
     "uptimeYear": "100.00%",
     "time": 1036,
     "timeDay": 887,
-    "timeWeek": 971,
+    "timeWeek": 939,
     "timeMonth": 1036,
     "timeYear": 1036,
     "dailyMinutesDown": {}
@@ -30,7 +30,7 @@
     "uptimeYear": "100.00%",
     "time": 2185,
     "timeDay": 1746,
-    "timeWeek": 2141,
+    "timeWeek": 2057,
     "timeMonth": 2185,
     "timeYear": 2185,
     "dailyMinutesDown": {}
@@ -48,7 +48,7 @@
     "uptimeYear": "100.00%",
     "time": 2420,
     "timeDay": 3031,
-    "timeWeek": 2534,
+    "timeWeek": 2530,
     "timeMonth": 2420,
     "timeYear": 2420,
     "dailyMinutesDown": {}
@@ -66,7 +66,7 @@
     "uptimeYear": "100.00%",
     "time": 762,
     "timeDay": 702,
-    "timeWeek": 726,
+    "timeWeek": 707,
     "timeMonth": 762,
     "timeYear": 762,
     "dailyMinutesDown": {}
@@ -84,7 +84,7 @@
     "uptimeYear": "100.00%",
     "time": 2141,
     "timeDay": 2479,
-    "timeWeek": 2296,
+    "timeWeek": 2283,
     "timeMonth": 2141,
     "timeYear": 2141,
     "dailyMinutesDown": {}
@@ -102,7 +102,7 @@
     "uptimeYear": "100.00%",
     "time": 687,
     "timeDay": 581,
-    "timeWeek": 643,
+    "timeWeek": 636,
     "timeMonth": 687,
     "timeYear": 687,
     "dailyMinutesDown": {}
