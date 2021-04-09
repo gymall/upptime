@@ -6,6 +6,7 @@ repo: upptime # Your GitHub repository name
 sites:
   - name: IServ
     url: https://gymall.de/iserv/
+    maxResponseTime: 1000
     icon: https://gymall.de/iserv/static/icons/favicon.ico
   - name: Moodle
     url: https://moodle.gymall.de/
