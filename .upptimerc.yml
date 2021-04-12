@@ -27,6 +27,15 @@ sites:
       - 403
 #    __dangerous__body_degraded: "File not found"
 
+# CI schedule
+workflowSchedule:
+  graphs: "0 0 * * *"
+  responseTime: "*/5 * * * *" # at every 5th minute
+  staticSite: "0 1 * * *"
+  summary: "0 0 * * *"
+  updateTemplate: "0 0 * * *"
+  updates: "0 3 * * *"
+  uptime: "*/5 * * * *"
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
