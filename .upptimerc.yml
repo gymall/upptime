@@ -21,10 +21,10 @@ sites:
     url: https://eduport.hamburg.de/
     icon: https://eduport.hamburg.de/wp-content/uploads/sites/223/2016/04/cropped-icon-1-32x32.jpg
   - name: LMS
-    url: https://188.34.134.10/
+    url: https://lms.lernen.hamburg/
     icon: https://lms.lernen.hamburg/theme/image.php/ocschool/theme/1616487992/favicon
-#    expectedStatusCodes:
-#      - 403
+    expectedStatusCodes:
+      - 403
 #    __dangerous__body_degraded: "File not found"
 
 # CI schedule
