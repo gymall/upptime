@@ -19,9 +19,11 @@ sites:
     icon: https://gymnasium-allermoehe.hamburg.de/wp-content/uploads/sites/16/2018/02/cropped-GymAll-Icon-32x32.png
   - name: eduPort
     url: https://eduport.hamburg.de/
+    maxResponseTime: 3000
     icon: https://eduport.hamburg.de/wp-content/uploads/sites/223/2016/04/cropped-icon-1-32x32.jpg
   - name: LMS
     url: https://lms.lernen.hamburg/
+    maxResponseTime: 3000
     icon: https://lms.lernen.hamburg/theme/image.php/ocschool/theme/1616487992/favicon
     expectedStatusCodes:
       - 403
