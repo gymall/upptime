@@ -25,8 +25,8 @@ sites:
     url: https://lms.lernen.hamburg/
     maxResponseTime: 3000
     icon: https://lms.lernen.hamburg/theme/image.php/ocschool/theme/1616487992/favicon
-    expectedStatusCodes:
-      - 403
+#    expectedStatusCodes:
+#      - 403
 #    __dangerous__body_degraded: "File not found"
 
 # CI schedule
