@@ -8,6 +8,8 @@ sites:
     url: https://gymall.de/iserv/
     maxResponseTime: 1000
     icon: https://gymall.de/iserv/static/icons/favicon.ico
+    assignees: # Users to assign downtime issues (optional)
+    - gymall
   - name: Moodle
     url: https://moodle.gymall.de/
     icon: https://moodle.gymall.de/theme/image.php/boost/theme/1616999343/favicon
