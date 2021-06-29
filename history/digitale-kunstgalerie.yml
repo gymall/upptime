@@ -1,7 +1,7 @@
 url: http://gymnasium-allermoehe.info/
-status: up
-code: 200
-responseTime: 704
-lastUpdated: 2021-06-29T11:40:47.725Z
+status: down
+code: 502
+responseTime: 6602
+lastUpdated: 2021-06-29T11:47:37.673Z
 startTime: Wed Mar 31 2021 10:28:58 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
