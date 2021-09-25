@@ -1,4 +1,4 @@
-# [📈 Live Status](https://monitor.it.gymall.de): <!--live status--> **🟩 All systems operational**
+# [📈 Live Status](https://monitor.it.gymall.de): <!--live status--> **🟩 All systems operational but slow**
 
 This repository contains the open-source uptime monitor and status page for [gymall](https://monitor.it.gymall.de), powered by [Upptime](https://github.com/upptime/upptime).
 
