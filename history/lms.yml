@@ -1,7 +1,7 @@
 url: https://lms.lernen.hamburg/
-status: down
-code: 503
-responseTime: 1714
-lastUpdated: 2021-12-22T22:51:44.793Z
+status: up
+code: 200
+responseTime: 638
+lastUpdated: 2021-12-22T22:55:36.402Z
 startTime: Wed Mar 31 2021 10:17:28 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
